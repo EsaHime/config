@@ -13,5 +13,10 @@
     "name": "project.remix",
     "description": "A remix app template.",
     "git": "git@github.com:EsaHime/template.project.remix.git"
+  },
+  {
+    "name": "project.template.express-ts",
+    "description": "A pure typescript express template.",
+    "git": "git@github.com:EsaHime/template.project.express-ts.git"
   }
 ]
