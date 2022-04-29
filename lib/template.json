@@ -8,5 +8,10 @@
     "name": "project.vue3",
     "description": "A Vue 3 project template.",
     "git": "git@github.com:EsaHime/template.project.vue3.git"
+  },
+  {
+    "name": "project.remix",
+    "description": "A remix app template.",
+    "git": "git@github.com:EsaHime/template.project.remix.git"
   }
 ]
