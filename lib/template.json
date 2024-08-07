@@ -21,7 +21,7 @@
   },
   {
     "name": "uxp.vite-vue-ts",
-    "description": "This is a UXP template that consists of Vite + Vue 3 + TSX.",
-    "git": "git@github.com:EsaHime/project.uxp.vite-vue-ts.git"
+    "description": "This is an UXP template that consists of Vite + Vue 3 + TSX.",
+    "git": "git@github.com:EsaHime/uxp.vite-vue-ts.git"
   }
 ]
