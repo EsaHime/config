@@ -10,6 +10,11 @@
     "git": "git@github.com:EsaHime/template.project.express-n-client.git"
   },
   {
+    "name": "project.express-ts",
+    "description": "A Express Template in TypeScript.",
+    "git": "git@github.com:EsaHime/template.project.express-ts.git"
+  },
+  {
     "name": "project.remix",
     "description": "A remix app template.",
     "git": "git@github.com:EsaHime/template.project.remix.git"
